@@ -1,0 +1,48 @@
+In this article, I will talk about startup of Selenium IDE.
+
+-------------------------------------
+Introduction:
+Selenium IDE is an IDE in google chrome's extension which can record your behavior in the specific website.
+
+-------------------------------------
+Preparation:
+(2.1)Check Google Chrome is downloaded.
+(2.2)Check Google Chrome Play Store can be used.
+(2.3)Check the option "google extension is allowed" in google chrome settings.
+
+-------------------------------------
+Startup:
+(3.1)If google chrome is NOT downloaded, Download google chrome first.
+Link:
+https://www.google.com/intl/zh-tw/chrome/
+By default, google chrome play store can be used when google chrome is downloaded.
+(3.2)Open Google Chrome instead of using other web browsers!!!
+NOT use other web browsers!!!
+NOT use other web browsers!!!
+NOT use other web browsers!!!
+(3.3)In google chrome, go to google chrome play store and then search Selenium IDE.
+Link:
+https://chrome.google.com/webstore/detail/selenium-ide/mooikfkahbdckldjjndioackbalphokd
+(3.4)click "add to chrome" to add the Selenium IDE extension in google chrome.
+(3.5)Add icons in google chrome.
+(3.6)Click the icon.
+
+Or alternatively, you can skip step (3.5) to (3.6) by clicking the extension. (BUT it is NOT convenient)
+
+(3.7)
+When startup of Selenium IDE, it asks you what you would like to do.
+For recording, select "record a new test for a new project".
+
+(3.8)Follow the steps on it. Then
+That's done.
+
+-------------------------------------
+P.S.
+NOTE that:
+The Selenium IDE does NOT save your project online.
+If the next time you want to use it, you have to save the project as .side file.
+When the next time you use it, open the existing project.
+
+-------------------------------------
+[ref]
+https://tech-blog.cymetrics.io/posts/nick/selenuim/
